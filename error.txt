@@ -1,0 +1,101 @@
+
+6 6#http://web.archive.org/web/20180805171147id_/http://emanate.live/
+
+35  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+69  Alert Text: This license has expired!
+Message: unexpected alert open: {Alert text : This license has expired!}
+  (Session info: headless chrome=103.0.5060.53)
+
+264  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+803  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+827  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+834  Message: disconnected: Unable to receive message from renderer
+  (Session info: headless chrome=103.0.5060.53)
+
+976  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+1539  Message: javascript error: Cannot read properties of null (reading 'parentNode')
+  (Session info: headless chrome=103.0.5060.53)
+
+2242  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+2338  Alert Text: Done!
+Message: unexpected alert open: {Alert text : Done!}
+  (Session info: headless chrome=103.0.5060.53)
+
+2430  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+2478  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+3069  Message: unknown error: unhandled inspector error: {"code":-32000,"message":"Unable to capture screenshot"}
+  (Session info: headless chrome=103.0.5060.53)
+
+3112  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+3366  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+3528  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+3586  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+3818  Alert Text: CROWDSALE ENDED!
+Message: unexpected alert open: {Alert text : CROWDSALE ENDED!}
+  (Session info: headless chrome=103.0.5060.53)
+
+3953  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+4043  Alert Text: [object Object]
+Message: unexpected alert open: {Alert text : [object Object]}
+  (Session info: headless chrome=103.0.5060.53)
+
+4181  Message: disconnected: Unable to receive message from renderer
+  (Session info: headless chrome=103.0.5060.53)
+
+4282  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+4300  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+4539  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+5109  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+5180  Alert Text: ���֧ܧ������ ��ѧۧݧ� �ߧ� ��֧�ӧ֧�� �ާ�ԧ�� ��������ӧ�ӧѧ�� �ڧݧ� �ҧ��� �ߧ֧ܧ���֧ܧ�ߧ�ާ�. ����ڧ��ڧ�� �ܧ��-��ѧާ��� �ҧ�ѧ�٧֧�� �� ���ӧ���ڧ�� ������ܧ�. ����ݧ� ����ҧݧ֧ާ� �ߧ� ��էѧ֧��� �����ѧߧڧ��, ��ӧ�اڧ�֧�� �� ��ѧ٧�ѧҧ���ڧܧѧާ� ��ѧۧ��.
+Message: unexpected alert open: {Alert text : ���֧ܧ������ ��ѧۧݧ� �ߧ� ��֧�ӧ֧�� �ާ�ԧ�� ��������ӧ�ӧѧ�� �ڧݧ� �ҧ��� �ߧ֧ܧ���֧ܧ�ߧ�ާ�. ����ڧ��ڧ�� �ܧ��-��ѧާ��� �ҧ�ѧ�٧֧�� �� ���ӧ���ڧ�� ������ܧ�. ����ݧ� ����ҧݧ֧ާ� �ߧ� ��էѧ֧��� �����ѧߧڧ��, ��ӧ�اڧ�֧�� �� ��ѧ٧�ѧҧ���ڧܧѧާ� ��ѧۧ��.}
+  (Session info: headless chrome=103.0.5060.53)
+
+
+5376  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+5487  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+5330  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+5376  Message: javascript error: Cannot read properties of null (reading 'clientHeight')
+  (Session info: headless chrome=103.0.5060.53)
+
+5487  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+

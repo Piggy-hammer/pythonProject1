@@ -1,0 +1,1717 @@
+25  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+29  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+35  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+36  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+43  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+65  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+75  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+102  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+105  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+107  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+108  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+111  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+122  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+129  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+151  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+152  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+167  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+183  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+198  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+225  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+234  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+235  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+245  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+249  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+264  Message: javascript error: Cannot read properties of null (reading 'removeChild')
+  (Session info: headless chrome=103.0.5060.53)
+
+280  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+287  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+308  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+390  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+397  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+450  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+579  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+584  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+601  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+675  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+681  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+687  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+801  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+803  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+813  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+831  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+889  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+921  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1004  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1030  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1049  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1129  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1251  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1340  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1422  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1424  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1425  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1468  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1480  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1481  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1484  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1492  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1493  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1499  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1524  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1525  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1526  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1527  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1528  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1541  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1549  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1561  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1575  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1593  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1596  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1598  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1609  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1614  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1629  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1634  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1642  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1643  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1644  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1645  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1659  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1671  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1684  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1702  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1713  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1718  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1735  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1736  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1742  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1746  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1779  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1780  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1795  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1807  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1810  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+1825  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1829  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1843  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1848  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1857  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1881  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1895  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1896  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1912  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1913  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1916  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1917  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1937  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1949  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1963  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1968  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1972  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1973  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1979  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1990  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1993  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+1994  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2008  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2044  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2056  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2057  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2058  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2061  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2063  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2072  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2114  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2115  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2129  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2130  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2146  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2148  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2149  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2150  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2151  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2163  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2166  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2174  Alert Text: Error: Waypoints plugin could not be loaded
+Message: unexpected alert open: {Alert text : Error: Waypoints plugin could not be loaded}
+  (Session info: headless chrome=103.0.5060.53)
+
+2179  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2180  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2183  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2185  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2186  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2187  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2194  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2203  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2222  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2230  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2233  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2234  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2236  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2238  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2239  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2240  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2241  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2242  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2243  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2244  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2245  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2246  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2247  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2248  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2252  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2253  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2254  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2256  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2260  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2275  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2281  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2291  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2312  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2323  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2327  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2334  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2339  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2358  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+2371  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2382  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2389  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2392  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2398  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2403  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2425  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+2430  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2431  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+2441  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2442  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2453  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2455  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+2453  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2460  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2464  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2479  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2485  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2500  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+2502  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2503  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2504  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2507  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2508  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2509  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2510  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2511  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2522  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2567  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2568  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2581  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2583  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2586  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2595  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2596  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2597  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2598  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2599  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2600  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2604  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2611  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2615  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2620  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2624  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2633  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2634  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2651  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2664  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2665  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2667  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2668  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2695  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2711  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2714  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2715  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2718  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2719  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2720  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2726  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2727  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2728  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2729  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2730  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2731  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2732  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2733  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2734  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2748  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2761  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2766  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2779  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2789  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2792  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2806  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2812  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2817  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2818  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2819  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2821  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2822  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2823  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2826  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2846  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2853  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2862  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+2866  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2870  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2879  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2883  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2910  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2914  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2922  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2930  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+2947  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2948  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+2951  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2952  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2953  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2957  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2960  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2974  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2978  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2985  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2989  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+2992  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3004  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3005  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3017  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3026  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+3030  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3034  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+3036  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3040  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3051  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3056  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3057  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3080  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3085  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3102  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3111  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3112  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+3115  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3133  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3135  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3149  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3152  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3173  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3174  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3176  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3177  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3178  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3179  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3181  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3182  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3183  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3186  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3188  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3190  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3194  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3196  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3197  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3198  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3201  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3209  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3216  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3238  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3240  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3241  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3244  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3245  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3249  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3258  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3261  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3266  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3270  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3271  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3274  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3275  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3276  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3288  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3289  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3304  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3306  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3308  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3315  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3316  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3324  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3340  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3342  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3379  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3382  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3386  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3392  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3400  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3421  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3437  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3448  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3459  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3460  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3504  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3519  Alert Text: ���֧ܧ������ ��ѧۧݧ� �ߧ� ��֧�ӧ֧�� �ާ�ԧ�� ��������ӧ�ӧѧ�� �ڧݧ� �ҧ��� �ߧ֧ܧ���֧ܧ�ߧ�ާ�. ����ڧ��ڧ�� �ܧ��-��ѧާ��� �ҧ�ѧ�٧֧�� �� ���ӧ���ڧ�� ������ܧ�. ����ݧ� ����ҧݧ֧ާ� �ߧ� ��էѧ֧��� �����ѧߧڧ��, ��ӧ�اڧ�֧�� �� ��ѧ٧�ѧҧ���ڧܧѧާ� ��ѧۧ��.
+Message: unexpected alert open: {Alert text : ���֧ܧ������ ��ѧۧݧ� �ߧ� ��֧�ӧ֧�� �ާ�ԧ�� ��������ӧ�ӧѧ�� �ڧݧ� �ҧ��� �ߧ֧ܧ���֧ܧ�ߧ�ާ�. ����ڧ��ڧ�� �ܧ��-��ѧާ��� �ҧ�ѧ�٧֧�� �� ���ӧ���ڧ�� ������ܧ�. ����ݧ� ����ҧݧ֧ާ� �ߧ� ��էѧ֧��� �����ѧߧڧ��, ��ӧ�اڧ�֧�� �� ��ѧ٧�ѧҧ���ڧܧѧާ� ��ѧۧ��.}
+  (Session info: headless chrome=103.0.5060.53)
+
+3530  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3541  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3549  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3556  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+3606  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3610  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3614  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3624  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3625  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3631  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3633  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3643  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3653  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3672  Message: javascript error: Cannot read properties of null (reading 'removeChild')
+  (Session info: headless chrome=103.0.5060.53)
+
+3692  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3699  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3704  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3717  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3721  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3731  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3741  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3742  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3765  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3769  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3789  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3796  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+3805  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3807  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3812  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3851  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3854  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3857  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3861  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3875  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3890  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3891  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3893  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3909  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+3921  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3940  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3944  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3953  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3955  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3956  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3957  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3962  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3968  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3983  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+3995  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4001  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4004  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4017  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4033  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+4037  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4038  Alert Text: Connection to server lost.
+Message: unexpected alert open: {Alert text : Connection to server lost.}
+  (Session info: headless chrome=103.0.5060.53)
+
+4043  Alert Text: [object Object]
+Message: unexpected alert open: {Alert text : [object Object]}
+  (Session info: headless chrome=103.0.5060.53)
+
+4048  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4049  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+4061  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4064  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4090  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4091  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4097  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4098  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4108  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4129  Alert Text: Error connecting to the ethereum mainnet, try refreshing your browser.
+Message: unexpected alert open: {Alert text : Error connecting to the ethereum mainnet, try refreshing your browser.}
+  (Session info: headless chrome=103.0.5060.53)
+
+4143  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4158  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4166  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4169  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4170  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4172  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4173  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4177  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4183  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4202  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4203  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4209  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4216  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4224  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4228  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4234  Message: script timeout
+  (Session info: headless chrome=103.0.5060.53)
+
+4239  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4246  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4249  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4275  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4282  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4300  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+4301  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4305  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4308  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4313  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4316  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4325  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4327  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4352  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4373  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4392  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4411  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+4430  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4440  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4453  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4455  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4456  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4464  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4467  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4468  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4470  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4485  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4488  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4524  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4539  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4555  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4583  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4585  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4590  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4599  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4620  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4623  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4649  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4655  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4657  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4675  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4677  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+4684  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4686  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4689  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+4702  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4703  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4710  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4712  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4719  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4754  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4770  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4778  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4781  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4802  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4803  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4850  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4857  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4871  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4878  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4900  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4902  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4904  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4905  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4923  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4930  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4960  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4968  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4970  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4972  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4974  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4981  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4982  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4991  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4992  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4994  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+4997  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5006  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5026  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5028  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5029  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5030  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5032  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5034  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5037  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5038  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5040  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5042  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5044  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5046  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5048  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5049  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5057  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5078  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+5080  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5086  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5094  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5096  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5098  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5125  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5127  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5129  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5130  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5138  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5146  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5155  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5180  Alert Text: ���֧ܧ������ ��ѧۧݧ� �ߧ� ��֧�ӧ֧�� �ާ�ԧ�� ��������ӧ�ӧѧ�� �ڧݧ� �ҧ��� �ߧ֧ܧ���֧ܧ�ߧ�ާ�. ����ڧ��ڧ�� �ܧ��-��ѧާ��� �ҧ�ѧ�٧֧�� �� ���ӧ���ڧ�� ������ܧ�. ����ݧ� ����ҧݧ֧ާ� �ߧ� ��էѧ֧��� �����ѧߧڧ��, ��ӧ�اڧ�֧�� �� ��ѧ٧�ѧҧ���ڧܧѧާ� ��ѧۧ��.
+Message: unexpected alert open: {Alert text : ���֧ܧ������ ��ѧۧݧ� �ߧ� ��֧�ӧ֧�� �ާ�ԧ�� ��������ӧ�ӧѧ�� �ڧݧ� �ҧ��� �ߧ֧ܧ���֧ܧ�ߧ�ާ�. ����ڧ��ڧ�� �ܧ��-��ѧާ��� �ҧ�ѧ�٧֧�� �� ���ӧ���ڧ�� ������ܧ�. ����ݧ� ����ҧݧ֧ާ� �ߧ� ��էѧ֧��� �����ѧߧڧ��, ��ӧ�اڧ�֧�� �� ��ѧ٧�ѧҧ���ڧܧѧާ� ��ѧۧ��.}
+  (Session info: headless chrome=103.0.5060.53)
+
+5197  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+
+
+5248  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5290  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5295  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5299  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5317  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5327  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5330  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+5354  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+5394  Message: no such frame: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+  (Session info: headless chrome=103.0.5060.53)
+
+5401  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5412  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5415  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5442  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5454  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5486  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5487  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+5493  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5510  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5527  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5529  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5540  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5542  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5565  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+
+5570  Message: javascript error: Failed to execute 'removeChild' on 'Node': parameter 1 is not of type 'Node'.
+  (Session info: headless chrome=103.0.5060.53)
+

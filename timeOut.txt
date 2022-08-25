@@ -1,0 +1,478 @@
+96 96#http://web.archive.org/web/20180806033016id_/https://ico.conda.online/
+
+105 105#http://web.archive.org/web/20181109034019id_/http://ggrocket.io/
+
+133 133#http://web.archive.org/web/20180625122627id_/http://www.casperproject.io/
+
+142 142#http://web.archive.org/web/20180517045845id_/http://www.deedcoinlaunch.com/
+
+167 167#http://web.archive.org/web/20180305000833id_/http://tge.selfllery.com/
+
+197 197#http://web.archive.org/web/20181108030132id_/http://gamedex.co/
+
+233 233#http://web.archive.org/web/20181231145153id_/http://www.electrominer.io/
+
+236 236#http://web.archive.org/web/20191001105715id_/https://illuminates.org/
+
+255 255#http://web.archive.org/web/20180731143611id_/http://bitschool.io/
+
+260 260#http://web.archive.org/web/20180828180433id_/http://cot.curecos.com/
+
+312 312#http://web.archive.org/web/20180519020459id_/http://crypton.vc/
+
+335 335#http://web.archive.org/web/20180623022724id_/http://gopep.network/
+
+365 365#http://web.archive.org/web/20171122071235id_/http://www.energi.world/
+
+392 392#http://web.archive.org/web/20190227051007id_/https://www.gostackr.com/
+
+430 430#http://web.archive.org/web/20180409021631id_/http://cryx.io/
+
+432 432#http://web.archive.org/web/20180816064153id_/https://tokensale.dream.ac/
+
+565 565#http://web.archive.org/web/20180709090956id_/https://senno.io/
+
+584 584#http://web.archive.org/web/20180409204357id_/https://zonafide.net/
+
+585 585#http://web.archive.org/web/20180216171717id_/https://affiliatecoin.io/
+
+664 664#http://web.archive.org/web/20180809210533id_/http://ubanx.io/
+
+827 827#http://web.archive.org/web/20180301032905id_/http://gglobal.io/
+
+889 889#http://web.archive.org/web/20180131175449id_/http://www.sintec.io/
+
+976 976#http://web.archive.org/web/20180227173515id_/http://narrative.network/
+
+1088 1088#http://web.archive.org/web/20180309025047id_/https://www.777.bingo/
+
+1441 1441#http://web.archive.org/web/20180927070547id_/http://blockchain.io/
+
+1465 1465#http://web.archive.org/web/20180808095549id_/https://destream.io/
+
+1484 1484#http://web.archive.org/web/20180625102202id_/https://streamity.org/
+
+1527 1527#http://web.archive.org/web/20180723171212id_/https://www.agrotechfarm.io/
+
+1592 1592#http://web.archive.org/web/20180930010505id_/https://www.gigtricks.io/
+
+1594 1594#http://web.archive.org/web/20190324104300id_/https://highbank.io/
+
+1613 1613#http://web.archive.org/web/20180716103239id_/https://www.laneaxis.io/
+
+1618 1618#http://web.archive.org/web/20190301043440id_/https://livenpay.io/
+
+1619 1619#http://web.archive.org/web/20180423053922id_/http://www.localcoinswap.com/
+
+1621 1621#http://web.archive.org/web/20181204061431id_/https://tokensale.lynked.world/
+
+1650 1650#http://web.archive.org/web/20180710111000id_/https://ico.talao.io/
+
+1655 1655#http://web.archive.org/web/20181004044416id_/https://ternion.io/
+
+1691 1691#http://web.archive.org/web/20180530020554id_/https://alt.estate/
+
+1727 1727#http://web.archive.org/web/20180925114103id_/https://cryptocean.io/
+
+1735 1735#http://web.archive.org/web/20180403133316id_/http://datecoin.io/
+
+1737 1737#http://web.archive.org/web/20180527053153id_/http://dicegame.io/
+
+1770 1770#http://web.archive.org/web/20180706171915id_/https://www.grapevineworldtoken.io/
+
+1774 1774#http://web.archive.org/web/20180531134821id_/http://www.icopass.id/
+
+1815 1815#http://web.archive.org/web/20200211015831id_/http://okschain.com/
+
+1822 1822#http://web.archive.org/web/20181111074903id_/http://parkres.org/
+
+1823 1823#http://web.archive.org/web/20180516012733id_/https://ico.paymon.org/
+
+1856 1856#http://web.archive.org/web/20190123083322id_/https://thejoy.io/
+
+1866 1866#http://web.archive.org/web/20191112134650id_/https://twogap.com/
+
+1872 1872#http://web.archive.org/web/20180903101214id_/https://vanig.io/
+
+1920 1920#http://web.archive.org/web/20180328033955id_/http://bubbletone.io/
+
+1927 1927#http://web.archive.org/web/20180721153645id_/http://coinet.network/
+
+1936 1936#http://web.archive.org/web/20180517005815id_/http://cubomania.io/
+
+1950 1950#http://web.archive.org/web/20190820003451id_/http://filmgrid.space/
+
+1978 1978#http://web.archive.org/web/20180818011607id_/http://www.kryptopal.io/
+
+1980 1980#http://web.archive.org/web/20180408044345id_/https://ico.loanbit.org/
+
+1982 1982#http://web.archive.org/web/20181213064026id_/http://www.lyntoken.com/
+
+1994 1994#http://web.archive.org/web/20181128161206id_/https://www.nhct.io/
+
+2000 2000#http://web.archive.org/web/20181106142530id_/http://www.pinmo.io/
+
+2044 2044#http://web.archive.org/web/20180313210357id_/https://akaiito.io/
+
+2102 2102#http://web.archive.org/web/20180517174850id_/http://flogmall.com/
+
+2107 2107#http://web.archive.org/web/20180202094814id_/http://gilgameshplatform.com/
+
+2115 2115#http://web.archive.org/web/20180814145348id_/http://incodium.io/
+
+2131 2131#http://web.archive.org/web/20180527155751id_/https://www.levelnet.co/
+
+2149 2149#http://web.archive.org/web/20180225032808id_/https://nodepower.io/
+
+2166 2166#http://web.archive.org/web/20180615040555id_/https://profede.com/
+
+2168 2168#http://web.archive.org/web/20180525220104id_/https://provoco.me/
+
+2219 2219#http://web.archive.org/web/20180507222429id_/https://en.worldwifi.io/
+
+2220 2220#http://web.archive.org/web/20180810115114id_/http://xenchain.io/
+
+2226 2226#http://web.archive.org/web/20180813204303id_/http://theaccountingblockchain.io/
+
+2249 2249#http://web.archive.org/web/20181229065725id_/http://charityblockchain.io/
+
+2264 2264#http://web.archive.org/web/20180705030808id_/http://cybit.io/
+
+2270 2270#http://web.archive.org/web/20190122110425id_/https://digitalbits.io/
+
+2280 2280#http://web.archive.org/web/20180319013346id_/https://firelotto.io/
+
+2286 2286#http://web.archive.org/web/20180324230053id_/https://www.giftcoin.org/
+
+2287 2287#http://web.archive.org/web/20180716131603id_/http://goldbox.io/
+
+2320 2320#http://web.archive.org/web/20181225145846id_/http://mineredge.io/
+
+2375 2375#http://web.archive.org/web/20190113051148id_/https://unitedfans.co/
+
+2389 2389#http://web.archive.org/web/20180430012725id_/http://www.apresnet.com/
+
+2406 2406#http://web.archive.org/web/20180628193444id_/http://bond.pm/
+
+2440 2440#http://web.archive.org/web/20180226205707id_/https://gohelpfund.com/
+
+2458 2458#http://web.archive.org/web/20181020110159id_/http://krosscoin.io/
+
+2470 2470#http://web.archive.org/web/20181029055342id_/http://www.medipedia.io/
+
+2475 2475#http://web.archive.org/web/20181110132128id_/http://nomad.space/
+
+2492 2492#http://web.archive.org/web/20180812201403id_/http://roomdao.io/
+
+2507 2507#http://web.archive.org/web/20180525200658id_/https://www.suchapp.io/
+
+2554 2554#http://web.archive.org/web/20200203092814id_/http://www.bitcoinblink.com/
+
+2564 2564#http://web.archive.org/web/20180211052520id_/https://cargox.io/
+
+2567 2567#http://web.archive.org/web/20180306193650id_/https://clinicoin.io/
+
+2568 2568#http://web.archive.org/web/20180726132301id_/https://codexprotocol.com/
+
+2574 2574#http://web.archive.org/web/20180613205922id_/http://cryptorobotics.io/
+
+2589 2589#http://web.archive.org/web/20180925000046id_/http://foresting.io/
+
+2605 2605#http://web.archive.org/web/20191123093222id_/http://k-tune.org/
+
+2620 2620#http://web.archive.org/web/20190124120643id_/http://www.ncrypto.io/?
+
+2627 2627#http://web.archive.org/web/20200811211709id_/https://personalwager.io/
+
+2633 2633#http://web.archive.org/web/20170314081951id_/https://qtum.org/
+
+2665 2665#http://web.archive.org/web/20190424065808id_/http://ico.when-hungry.menu/
+
+2672 2672#http://web.archive.org/web/20180809202612id_/http://www.able-project.io/
+
+2673 2673#http://web.archive.org/web/20170926145301id_/https://aeron.aero/
+
+2676 2676#http://web.archive.org/web/20180509083908id_/https://ambitmining.io/
+
+2698 2698#http://web.archive.org/web/20180517020944id_/https://bitxoxo.exchange/
+
+2699 2699#http://web.archive.org/web/20170914025404id_/http://blackmooncrypto.com/
+
+2702 2702#http://web.archive.org/web/20180116121230id_/http://www.blocklancer.net/
+
+2731 2731#http://web.archive.org/web/20180506073440id_/https://www.digitalticks.com/
+
+2755 2755#http://web.archive.org/web/20180121192250id_/http://ico.fluzfluz.com/
+
+2776 2776#http://web.archive.org/web/20171218050451id_/http://hoqu.io/
+
+2784 2784#http://web.archive.org/web/20171129072616id_/https://indahash.com/
+
+2811 2811#http://web.archive.org/web/20171021045850id_/https://www.micromoney.io/
+
+2815 2815#http://web.archive.org/web/20171208073100id_/http://www.nagaico.com/
+
+2825 2825#http://web.archive.org/web/20171028180614id_/https://pindex.uci.global/
+
+2840 2840#http://web.archive.org/web/20180329064633id_/https://www.robotinaico.com/
+
+2841 2841#http://web.archive.org/web/20171105095527id_/http://www.rockchain.org/
+
+2844 2844#http://web.archive.org/web/20180301031107id_/https://www.scrinium.ai/
+
+2845 2845#http://web.archive.org/web/20180207220744id_/http://shift.cash/
+
+2856 2856#http://web.archive.org/web/20180817162838id_/http://www.sportco.io/
+
+2860 2860#http://web.archive.org/web/20190403141511id_/https://www.synapsecoin.io/
+
+2895 2895#http://web.archive.org/web/20180122011221id_/http://www.aidcoin.co/
+
+2914 2914#http://web.archive.org/web/20180116212517id_/http://bazista.io/?
+
+2945 2945#http://web.archive.org/web/20171119110951id_/https://clout.io/
+
+2946 2946#http://web.archive.org/web/20171230164727id_/http://coinlion.com/
+
+2974 2974#http://web.archive.org/web/20180116051834id_/http://ico.echat.io/
+
+2984 2984#http://web.archive.org/web/20180307052929id_/http://www.eroiy.io/
+
+2986 2986#http://web.archive.org/web/20180625114133id_/https://essentia.one/
+
+2996 2996#http://web.archive.org/web/20180305131145id_/http://fidelium.io/
+
+2999 2999#http://web.archive.org/web/20180217180350id_/http://fintrux.com/
+
+3005 3005#http://web.archive.org/web/20180609112814id_/http://fructus.io/
+
+3053 3053#http://web.archive.org/web/20171204143756id_/http://lh-crypto.io/?
+
+3059 3059#http://web.archive.org/web/20200220022557id_/http://www.lydian-lion.com/
+
+3078 3078#http://web.archive.org/web/20180905234755id_/https://neluns.io/
+
+3080 3080#http://web.archive.org/web/20180127054725id_/http://www.neuromation.io/
+
+3085 3085#http://web.archive.org/web/20190619231709id_/http://token.nyigde.com/
+
+3150 3150#http://web.archive.org/web/20180301171638id_/https://ico.theworldnews.net/
+
+3165 3165#http://web.archive.org/web/20171027183253id_/https://universa.io/
+
+3166 3166#http://web.archive.org/web/20171227205502id_/https://usrv.io/
+
+3168 3168#http://web.archive.org/web/20171105090836id_/http://vuepay.co/
+
+3173 3173#http://web.archive.org/web/20171105092250id_/https://www.wordcoin.io/
+
+3198 3198#http://web.archive.org/web/20180323231421id_/http://argoreality.io/
+
+3212 3212#http://web.archive.org/web/20180228064403id_/https://betrium.co/
+
+3216 3216#http://web.archive.org/web/20181018174827id_/http://birc.io/
+
+3229 3229#http://web.archive.org/web/20190103224113id_/http://brikbit.io/
+
+3246 3246#http://web.archive.org/web/20180522025149id_/http://ico.coinnup.com/
+
+3270 3270#http://web.archive.org/web/20171006042625id_/http://www.dinnerfulnetwork.com/
+
+3271 3271#http://web.archive.org/web/20171105093831id_/https://www.districts.io/
+
+3271 3271#http://web.archive.org/web/20171105093831id_/https://www.districts.io/
+
+3283 3283#http://web.archive.org/web/20181215145954id_/http://everycoin.io/
+
+3292 3292#http://web.archive.org/web/20171115104313id_/https://finom.io/
+
+3311 3311#http://web.archive.org/web/20191012213254id_/https://gominer.co/
+
+3316 3316#http://web.archive.org/web/20180221022557id_/http://hmstr.io/
+
+3329 3329#http://web.archive.org/web/20180319025001id_/http://imaero.io/?
+
+3330 3330#http://web.archive.org/web/20180320215731id_/http://icerockmining.io/
+
+3348 3348#http://web.archive.org/web/20180515235530id_/https://koronacoin.io/
+
+3367 3367#http://web.archive.org/web/20191019104741id_/https://meterqubes.io/
+
+3385 3385#http://web.archive.org/web/20190418113015id_/https://nobobox.com/
+
+3388 3388#http://web.archive.org/web/20171011174334id_/http://www.notary-platform.com/
+
+3401 3401#http://web.archive.org/web/20180329012026id_/https://patron-ico.io/
+
+3409 3409#http://web.archive.org/web/20170808001206id_/https://www.po.et/
+
+3430 3430#http://web.archive.org/web/20200217182117id_/http://rivermount.io/
+
+3441 3441#http://web.archive.org/web/20180830053134id_/https://showmebiz.io/
+
+3465 3465#http://web.archive.org/web/20171006094358id_/http://tokendesk.io/
+
+3468 3468#http://web.archive.org/web/20171222221424id_/https://trade.io/
+
+3474 3474#http://web.archive.org/web/20180504053450id_/http://uun.io/
+
+3492 3492#http://web.archive.org/web/20190509194721id_/https://winwincoin.io/
+
+3505 3505#http://web.archive.org/web/20171026201913id_/http://www.zap.store/
+
+3517 3517#http://web.archive.org/web/20171128224702id_/https://www.ankorus.org/
+
+3519 3519#http://web.archive.org/web/20181222212810id_/http://arcus.city/
+
+3523 3523#http://web.archive.org/web/20180129010056id_/http://astorgame.com/
+
+3546 3546#http://web.archive.org/web/20170531134958id_/http://bitcad.me/
+
+3550 3550#http://web.archive.org/web/20171218094139id_/http://ico.bitcomo.com/?
+
+3576 3576#http://web.archive.org/web/20190114113708id_/https://ico.citowise.com/
+
+3584 3584#http://web.archive.org/web/20171229081556id_/http://crycash.io/
+
+3588 3588#http://web.archive.org/web/20180802095721id_/http://www.cvproof.com/
+
+3592 3592#http://web.archive.org/web/20180111162410id_/https://www.deex.exchange/
+
+3609 3609#http://web.archive.org/web/20170829180712id_/https://ico.easymine.io/
+
+3622 3622#http://web.archive.org/web/20180226073217id_/http://www.exenium.io/
+
+3623 3623#http://web.archive.org/web/20180804182933id_/http://explorio.com/
+
+3663 3663#http://web.archive.org/web/20180419114927id_/http://iolite.io/
+
+3666 3666#http://web.archive.org/web/20180720165721id_/http://www.jiojio.io/
+
+3704 3704#http://web.archive.org/web/20171217032242id_/http://nau.io/
+
+3705 3705#http://web.archive.org/web/20180519185435id_/https://www.nauticus.io/
+
+3740 3740#http://web.archive.org/web/20180419114330id_/http://www.quifas.com/
+
+3795 3795#http://web.archive.org/web/20180422175540id_/http://ucmg.io/
+
+3807 3807#http://web.archive.org/web/20180324201553id_/http://wizzle.io/
+
+3815 3815#http://web.archive.org/web/20180503153629id_/https://ico.yoo-mi.com/
+
+3825 3825#http://web.archive.org/web/20180324021658id_/http://admine.io/
+
+3854 3854#http://web.archive.org/web/20171106121810id_/https://biocoin.bio/
+
+3890 3890#http://web.archive.org/web/20180803085612id_/https://www.cryptassist.io/
+
+3901 3901#http://web.archive.org/web/20180508055650id_/https://daostack.io/
+
+3934 3934#http://web.archive.org/web/20181206175936id_/https://ico.marketspace.io/
+
+3974 3974#http://web.archive.org/web/20171211084325id_/https://loyalcoin.io/
+
+4014 4014#http://web.archive.org/web/20190408090216id_/https://icoripplecash.io/
+
+4018 4018#http://web.archive.org/web/20180517034708id_/http://sbcplatform.com/
+
+4022 4022#http://web.archive.org/web/20180331010912id_/http://sintez.global/
+
+4112 4112#http://web.archive.org/web/20180130151918id_/https://budbo.io/
+
+4143 4143#http://web.archive.org/web/20181118061828id_/http://dataxchain.org/
+
+4174 4174#http://web.archive.org/web/20180626190422id_/http://www.finx-blockchain.com/
+
+4258 4258#http://web.archive.org/web/20191021210412id_/http://pieta.network/
+
+4280 4280#http://web.archive.org/web/20180218153712id_/https://ico.savedroid.com/
+
+4288 4288#http://web.archive.org/web/20180211235654id_/https://socialmedia.market/
+
+4312 4312#http://web.archive.org/web/20180311054645id_/https://ico.thrivelabs.io/
+
+4341 4341#http://web.archive.org/web/20181023154229id_/http://zed.network/
+
+4351 4351#http://web.archive.org/web/20180309195841id_/http://ico.aida.market/
+
+4408 4408#http://web.archive.org/web/20171119203815id_/https://www.dropanswer.social/
+
+4426 4426#http://web.archive.org/web/20171226080055id_/http://www.genieico.net/
+
+4463 4463#http://web.archive.org/web/20180118005438id_/http://tokensale.liveedu.tv/
+
+4464 4464#http://web.archive.org/web/20180125042724id_/http://www.lwf.io/
+
+4477 4477#http://web.archive.org/web/20180207072604id_/http://www.nami.trade/
+
+4564 4564#http://web.archive.org/web/20180127055428id_/https://zla.io/
+
+4604 4604#http://web.archive.org/web/20171014153636id_/http://www.zavodcoin.com/
+
+4646 4646#http://web.archive.org/web/20180602154232id_/http://eventjoin.io/
+
+4666 4666#http://web.archive.org/web/20180202084951id_/https://ico.jizzcoins.com/
+
+4671 4671#http://web.archive.org/web/20180314211733id_/http://www.kelta.com/
+
+4680 4680#http://web.archive.org/web/20180331155656id_/http://www.mavro.org/?
+
+4742 4742#http://web.archive.org/web/20181201233446id_/http://www.scia.io/
+
+4744 4744#http://web.archive.org/web/20180908193147id_/http://streampay.io/
+
+4755 4755#http://web.archive.org/web/20190218064147id_/http://timbercoin.eu/
+
+4800 4800#http://web.archive.org/web/20171120195705id_/https://cointedtoken.com/
+
+4937 4937#http://web.archive.org/web/20180305091341id_/http://zebi.io/
+
+4978 4978#http://web.archive.org/web/20180404224747id_/http://www.ethernalheroes.com/
+
+4988 4988#http://web.archive.org/web/20180713020152id_/https://harapancoin.com/
+
+5053 5053#http://web.archive.org/web/20180508233331id_/http://www.valueticketico.com/
+
+5055 5055#http://web.archive.org/web/20180704055506id_/http://www.venus.company/
+
+5081 5081#http://web.archive.org/web/20180207175756id_/https://tokensale.datawallet.com/
+
+5117 5117#http://web.archive.org/web/20180314225133id_/http://moxy.one/
+
+5159 5159#http://web.archive.org/web/20170922020343id_/http://abab.io/
+
+5208 5208#http://web.archive.org/web/20180125032644id_/https://serenity-financial.io/
+
+5240 5240#http://web.archive.org/web/20171112052949id_/http://briskpass.com/
+
+5420 5420#http://web.archive.org/web/20170814043815id_/http://tomahawkcoin.com/
+
+5437 5437#http://web.archive.org/web/20190428162723id_/https://socialgood-foundation.com/
+
+5452 5452#http://web.archive.org/web/20190422202129id_/http://www.adabsolutions.com/
+
+5474 5474#http://web.archive.org/web/20190521024246id_/https://cryptoads.exchange/
+
+5489 5489#http://web.archive.org/web/20190122215837id_/http://cointoken.io/
+
+5491 5491#http://web.archive.org/web/20190622203341id_/https://elrond.com/
+
+5505 5505#http://web.archive.org/web/20190822073244id_/http://sonocoin.io/
+
+5515 5515#http://web.archive.org/web/20190626203530id_/http://www.allsesame.com/
+
+5573 5573#http://web.archive.org/web/20191230082612id_/http://cubechain.io/
+
+5679 5679#http://web.archive.org/web/20190603161458id_/https://www.xcrypt.club/
+
+5700 5700#http://web.archive.org/web/20190503134830id_/http://www.faireum.io/
+
+5720 5720#http://web.archive.org/web/20190124011358id_/http://medicancoin.com/
+
+5330 5330#http://web.archive.org/web/20171004092844id_/http://biopaycoin.com/
+
+5442 5442#http://web.archive.org/web/20190528101104id_/https://harmony.one/
+
+5565 5565#http://web.archive.org/web/20200130081335id_/https://dain.ai/
+

@@ -1,0 +1,81 @@
+35  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+69  Alert Text: This license has expired!
+Message: unexpected alert open: {Alert text : This license has expired!}
+  (Session info: headless chrome=103.0.5060.53)
+
+675  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+695  Message: disconnected: Unable to receive message from renderer
+  (Session info: headless chrome=103.0.5060.53)
+
+867  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+
+2242  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+2338  Alert Text: Done!
+Message: unexpected alert open: {Alert text : Done!}
+  (Session info: headless chrome=103.0.5060.53)
+
+2537  Message: disconnected: Unable to receive message from renderer
+  (Session info: headless chrome=103.0.5060.53)
+
+2547  Message: timeout: Timed out receiving message from renderer: -27081.855
+  (Session info: headless chrome=103.0.5060.53)
+
+3052  Message: disconnected: Unable to receive message from renderer
+  (Session info: headless chrome=103.0.5060.53)
+
+3053  Message: timeout: Timed out receiving message from renderer: -189.789
+  (Session info: headless chrome=103.0.5060.53)
+3112  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+3818  Alert Text: CROWDSALE ENDED!
+Message: unexpected alert open: {Alert text : CROWDSALE ENDED!}
+  (Session info: headless chrome=103.0.5060.53)
+
+4043  Alert Text: [object Object]
+Message: unexpected alert open: {Alert text : [object Object]}
+  (Session info: headless chrome=103.0.5060.53)
+
+4082  Message: disconnected: Unable to receive message from renderer
+  (Session info: headless chrome=103.0.5060.53)
+
+4129  Alert Text: Error connecting to the ethereum mainnet, try refreshing your browser.
+Message: unexpected alert open: {Alert text : Error connecting to the ethereum mainnet, try refreshing your browser.}
+  (Session info: headless chrome=103.0.5060.53)
+
+4300  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+5109  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+5180  Alert Text: ���֧ܧ������ ��ѧۧݧ� �ߧ� ��֧�ӧ֧�� �ާ�ԧ�� ��������ӧ�ӧѧ�� �ڧݧ� �ҧ��� �ߧ֧ܧ���֧ܧ�ߧ�ާ�. ����ڧ��ڧ�� �ܧ��-��ѧާ��� �ҧ�ѧ�٧֧�� �� ���ӧ���ڧ�� ������ܧ�. ����ݧ� ����ҧݧ֧ާ� �ߧ� ��էѧ֧��� �����ѧߧڧ��, ��ӧ�اڧ�֧�� �� ��ѧ٧�ѧҧ���ڧܧѧާ� ��ѧۧ��.
+Message: unexpected alert open: {Alert text : ���֧ܧ������ ��ѧۧݧ� �ߧ� ��֧�ӧ֧�� �ާ�ԧ�� ��������ӧ�ӧѧ�� �ڧݧ� �ҧ��� �ߧ֧ܧ���֧ܧ�ߧ�ާ�. ����ڧ��ڧ�� �ܧ��-��ѧާ��� �ҧ�ѧ�٧֧�� �� ���ӧ���ڧ�� ������ܧ�. ����ݧ� ����ҧݧ֧ާ� �ߧ� ��էѧ֧��� �����ѧߧڧ��, ��ӧ�اڧ�֧�� �� ��ѧ٧�ѧҧ���ڧܧѧާ� ��ѧۧ��.}
+  (Session info: headless chrome=103.0.5060.53)
+
+5266  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+5487  Alert Text: Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.
+Message: unexpected alert open: {Alert text : Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.}
+  (Session info: headless chrome=103.0.5060.53)
+
+2714  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+3818  Alert Text: CROWDSALE ENDED!
+Message: unexpected alert open: {Alert text : CROWDSALE ENDED!}
+  (Session info: headless chrome=103.0.5060.53)
+
+2  ('Connection aborted.', ConnectionResetError(10054, 'Զ������ǿ�ȹر���һ�����е����ӡ�', None, 10054, None))
+2  Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="wm-ipp-base"]"}
+  (Session info: headless chrome=103.0.5060.53)
+
+2  Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=103.0.5060.53)
+
